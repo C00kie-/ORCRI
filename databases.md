@@ -37,8 +37,12 @@ Each line tells if [MISP](https://github.com/MISP/MISP) has an import module rel
 |State of California Department of Justice, Databreach list |https://oag.ca.gov/privacy/databreach/list| 01/30/2021 | databreach||
 |Unesco Digital Library |https://unesdoc.unesco.org | 01/30/2021 |||
 |World Bank data catalog | https://datacatalog.worldbank.org/collections| 01/30/2021 |||
-
-
+|CDTC data|https://www.ctdatacollaborative.org/download-global-dataset|02/12/2021| Human trafficking|
+|UCR FBI|https://ucr.fbi.gov/hate-crime/|02/12/2021|Hate crime||
+|Migration data portal|https://migrationdataportal.org/themes/human-trafficking|02/12/2021|Human trafficking|
+|Respect international Counter trafficking data collaborative|https://respect.international/counter-trafficking-data-collaborative/|02/12/2021| Human trafficking|
+|Harvard Dataverse, Human trafficking|https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/23612| 02/12/2021| Human trafficking|
+|Data.gov US|https://catalog.data.gov/dataset?q=human+trafficking+&sort=score+desc%2C+name+asc&as_sfid=AAAAAAWPffZ7pi1Wrm4jeh4vlWtQU_Dz4XOBhu4-gsiHRRsR0ib2GqYbgwwiK8b7FxohOTzpipXV2215yC_IhYbtpvpMF5wXHve63ozrL983X0bu14FSP6CeEtZL5tVq5-DDSD4%3D&as_fid=a408794751047c4030b89524c3ebed25245aaebd|02/12/2021|Human trafficking, child labor|
 
 unsorted
 - https://docs.google.com/spreadsheets/d/1a3yzhzzzJslzxtVGVZ7uNx7Q_GhpAVDIboQGDbwy0B4/edit#gid=1114015401 (GIJN Human Trafficking Database)
