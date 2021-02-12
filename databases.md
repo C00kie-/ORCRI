@@ -42,7 +42,8 @@ Each line tells if [MISP](https://github.com/MISP/MISP) has an import module rel
 |Migration data portal|https://migrationdataportal.org/themes/human-trafficking|02/12/2021|Human trafficking|
 |Respect international Counter trafficking data collaborative|https://respect.international/counter-trafficking-data-collaborative/|02/12/2021| Human trafficking|
 |Harvard Dataverse, Human trafficking|https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/23612| 02/12/2021| Human trafficking|
-|Data.gov US|https://catalog.data.gov/dataset?q=human+trafficking+&sort=score+desc%2C+name+asc&as_sfid=AAAAAAWPffZ7pi1Wrm4jeh4vlWtQU_Dz4XOBhu4-gsiHRRsR0ib2GqYbgwwiK8b7FxohOTzpipXV2215yC_IhYbtpvpMF5wXHve63ozrL983X0bu14FSP6CeEtZL5tVq5-DDSD4%3D&as_fid=a408794751047c4030b89524c3ebed25245aaebd|02/12/2021|Human trafficking, child labor|
+|Data.gov US|[link](https://catalog.data.gov/dataset?q=human+trafficking+&sort=score+desc%2C+name+asc&as_sfid=AAAAAAWPffZ7pi1Wrm4jeh4vlWtQU_Dz4XOBhu4-gsiHRRsR0ib2GqYbgwwiK8b7FxohOTzpipXV2215yC_IhYbtpvpMF5wXHve63ozrL983X0bu14FSP6CeEtZL5tVq5-DDSD4%3D&as_fid=a408794751047c4030b89524c3ebed25245aaebd)|02/12/2021|Human trafficking, child labor|
+|Data.gov Australia|https://data.gov.au/data/dataset/number-of-victims-of-human-trafficking-per-100-000-population-by-sex-age-and-form-of-exploitation|02/12/2021| Human trafficking|
 
 unsorted
 - https://docs.google.com/spreadsheets/d/1a3yzhzzzJslzxtVGVZ7uNx7Q_GhpAVDIboQGDbwy0B4/edit#gid=1114015401 (GIJN Human Trafficking Database)
