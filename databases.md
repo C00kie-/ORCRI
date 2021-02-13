@@ -57,4 +57,5 @@ unsorted
 |Name|link|last-view|label|MISP|
 |-|-|-|-|-|
 |ONUDC ICCS reports|https://www.unodc.org/unodc/en/data-and-analysis/statistics/iccs/reports.htmlhttps://www.unodc.org/unodc/en/data-and-analysis/statistics/iccs/reports.html|02/13/21|NOMENCLATURE|OBJECT TEMPLATE OR TAXONOMY|
+|ICD-11 International Classification of diseases|https://icd.who.int/en|02/13/2021|cause of death|
 
