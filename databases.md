@@ -54,7 +54,7 @@ unsorted
 
 # Normalization
 
-|Name|link|last-view|label|MISP module|
+|Name|link|last-view|label|MISP|
 |-|-|-|-|-|
-|ONUDC ICCS reports|https://www.unodc.org/unodc/en/data-and-analysis/statistics/iccs/reports.htmlhttps://www.unodc.org/unodc/en/data-and-analysis/statistics/iccs/reports.html|02/13/21|NOMENCLATURE|
+|ONUDC ICCS reports|https://www.unodc.org/unodc/en/data-and-analysis/statistics/iccs/reports.htmlhttps://www.unodc.org/unodc/en/data-and-analysis/statistics/iccs/reports.html|02/13/21|NOMENCLATURE|OBJECT TEMPLATE OR TAXONOMY|
 
