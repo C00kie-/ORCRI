@@ -10,7 +10,7 @@ Tools:
 - [R-tools](./r-tools), R language and RStudio beginners tutorial
 
 Github links:
-- [Databases](https://github.com/C00kie-/ORCRI/blob/master/databases.md)
+- [Databases](./databases)
 - [Publications](https://github.com/C00kie-/ORCRI/blob/master/publications.md)
 - [Visualisation](https://github.com/C00kie-/ORCRI/blob/master/visualizations.md)
 
