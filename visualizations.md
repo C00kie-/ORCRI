@@ -34,6 +34,8 @@ usecase: maps generation on many topics such as ressources, conflicts with discr
 
 ![image](/sources/image/hgl.png)
 
+# Colouring
+
 ## uMap
 
 https://umap.openstreetmap.fr/fr/
