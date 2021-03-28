@@ -13,6 +13,7 @@ Github links:
 - [Databases](./databases.md)
 - [Publications](./publications.md)
 - [Visualisation](./visualizations.md)
+- [Analysis](./Analysis.md)
 
 You can check open Issues in the repo for needed development, or [post an issue](https://docs.github.com/en/enterprise/2.15/user/articles/creating-an-issue) if you need something. Make a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) if you operate some changes in the repo that you want to share with the community.
 
