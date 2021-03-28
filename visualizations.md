@@ -1,9 +1,13 @@
+# Relations graphs
+
 ## VIS (OCCRP) Visual Investigative Scenarios
 
 https://vis.occrp.org/
 ++ open library with cases examples
 
 ![image](/sources/image/vis.png)
+
+# Geocoded information
 
 ## Network Atlas Improves Visualization of Global Internet Infrastructure
 
